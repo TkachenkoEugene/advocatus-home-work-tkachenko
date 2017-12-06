@@ -1,0 +1,17 @@
+{
+  "name": "advocatus",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016git remote add origin https://github.com/TkachenkoEugene/advocatus-home-work-tkachenko.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "description": ""
+}
